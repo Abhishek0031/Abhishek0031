@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
-<h3 align="center">Backend Developer | PHP | Python | Django | DSA Enthusiast</h3>
+<h3 align="center">Backend Developer | PHP | Laravel | Python | Django | DSA Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Abhishek0031">
@@ -108,9 +108,9 @@
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: (Add your link here)
-- 📧 Email: (Add your email here)
-- 🌐 Portfolio: (Add portfolio if available)
+- 💼 LinkedIn: (https://www.linkedin.com/in/abhishek-gupta-6a4998265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 📧 Email: (abhihek3182002@gmail.com)
+- 🌐 Portfolio: (https://abhishek-cv-rho.vercel.app/)
 
 ---
 
