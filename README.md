@@ -3,7 +3,7 @@
 <!-- ======================== -->
 
 <h1 align="center">Hi 👋, I'm Abhishek Gupta</h1>
-<h3 align="center">Backend Developer | PHP | Laravel | Python | Django | DSA Enthusiast</h3>
+<h3 align="center">Backend Developer | PHP | Laravel | Python | Django</h3>
 
 <p align="center">
   <a href="https://github.com/Abhishek0031">
